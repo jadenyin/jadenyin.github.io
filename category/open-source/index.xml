@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source | X-Lab - 技术传播文明，践行同步世界</title>
+    <link>http://dt-team-b.github.io/category/open-source/</link>
+      <atom:link href="http://dt-team-b.github.io/category/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <description>Open Source</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 X-Lab</copyright><lastBuildDate>Sat, 06 Jun 2020 14:41:40 +0800</lastBuildDate>
+    <image>
+      <url>http://dt-team-b.github.io/images/logo_hu8e5258a32e3f548c118d59a5b7b21f19_70548_300x300_fit_lanczos_2.png</url>
+      <title>Open Source</title>
+      <link>http://dt-team-b.github.io/category/open-source/</link>
+    </image>
+    
+    <item>
+      <title>番茄ToDo</title>
+      <link>http://dt-team-b.github.io/project/tomato/</link>
+      <pubDate>Sat, 06 Jun 2020 14:41:40 +0800</pubDate>
+      <guid>http://dt-team-b.github.io/project/tomato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>邸建财.基于ERP下的生产管理看板系统开发</title>
+      <link>http://dt-team-b.github.io/publications/p3/</link>
+      <pubDate>Sat, 06 Jun 2020 14:41:40 +0800</pubDate>
+      <guid>http://dt-team-b.github.io/publications/p3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>彭新导.一种看板系统的流程模式设计方法</title>
+      <link>http://dt-team-b.github.io/publications/p2/</link>
+      <pubDate>Fri, 05 Jun 2020 14:02:35 +0800</pubDate>
+      <guid>http://dt-team-b.github.io/publications/p2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>滴答清单</title>
+      <link>http://dt-team-b.github.io/project/dida/</link>
+      <pubDate>Fri, 05 Jun 2020 14:02:35 +0800</pubDate>
+      <guid>http://dt-team-b.github.io/project/dida/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
